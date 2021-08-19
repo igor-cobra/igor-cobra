@@ -1,15 +1,15 @@
 ### Opa tchê 👋
 <div>
   <a href="https://github.com/igor-cobra">
-  <img height="125em" src="https://github-readme-stats.vercel.app/api?username=igor-cobra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas"/>
-  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-cobra&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br" alt="Languages"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=igor-cobra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-cobra&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br" alt="Languages"/>
 </div>
 
 ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-  <img height="25em" align="right" alt="Programando" src="https://i.gifer.com/9TLY.gif">
+  <img height="50em" align="right" alt="Programando" src="https://i.gifer.com/9TLY.gif">
 </div>
 
 ##

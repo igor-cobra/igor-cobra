@@ -9,6 +9,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+  <img align="center" alt="Delphi" height="30" width="30" src="https://e7.pngegg.com/pngimages/368/141/png-clipart-delphi-embarcadero-rad-studio-object-pascal-c-builder-embarcadero-technologies-android-trademark-logo.png">
   <img height="50em" align="right" alt="Programando" src="https://raw.githubusercontent.com/igor-cobra/igor-cobra/master/digitando.gif">
 </div>
 

@@ -24,9 +24,9 @@
 - 🔭 **Atualmente trabalhando:** Precisa Fábrica de Software
 - 💻 **Techologia utilizada:** Delphi e Firebird
 - 👨‍🎓 **Graduação:** Cursando Engenharia de Software na UTFPR-DV
-- 🌱 **Estudando:** Java
+- 🌱 **Estudando:** Java/TypeScript
 - 😄 **Pronomes**: Ele/dele
-- ⚡ **Fato engraçado:** Ainda não assisti senhor dos anéis 🤦‍♂️
+- ⚡ **Fato engraçado:** Comecei a assistir, mas ainda não terminei Senhor dos Anéis 🤦‍♂️
 
 ##
 ![Snake animation](https://github.com/igor-cobra/igor-cobra/blob/output/github-contribution-grid-snake.svg)
